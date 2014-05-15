@@ -12,13 +12,9 @@ public class Binary_Tree {
 		}
 
 		public boolean isLeaf() {
-			return(( left == null) && (right == null));
+			return ((left == null) && (right == null));
 		}
 	}
-	
-	
-	
-	
 
 	Node root;
 
